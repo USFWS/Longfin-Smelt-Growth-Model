@@ -16,10 +16,10 @@
       ]
     },
 
-    "homepageURL": "https://github.com/USFWS/Longfin-Smelt-Growth-Mode",
-    "downloadURL": "https://github.com/USFWS/Longfin-Smelt-Growth-Modee/archive/refs/heads/main.zip",
-    "disclaimerURL": "https://github.com/USFWS/Longfin-Smelt-Growth-Mode/blob/main/DISCLAIMER.md",
-    "repositoryURL": "https://github.com/USFWS/Longfin-Smelt-Growth-Mode.git",
+    "homepageURL": "https://github.com/USFWS/Longfin-Smelt-Growth-Model",
+    "downloadURL": "https://github.com/USFWS/Longfin-Smelt-Growth-Model/archive/refs/heads/main.zip",
+    "disclaimerURL": "https://github.com/USFWS/Longfin-Smelt-Growth-Model/blob/main/DISCLAIMER.md",
+    "repositoryURL": "https://github.com/USFWS/Longfin-Smelt-Growth-Model.git",
     "vcs": "git",
 
     "laborHours": 2,
@@ -42,7 +42,7 @@
     },
 
     "date": {
-      "metadataLastUpdated": "2024-01-29"
+      "metadataLastUpdated": "2024-01-30"
     }
   }
 ]

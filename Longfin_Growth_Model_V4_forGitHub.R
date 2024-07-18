@@ -59,10 +59,6 @@ rm(list=ls(all=T))
 require(TMB)
 #set.seed(1)
 
-# set working directory
-wd<-"C:/Users/bmatthias/OneDrive - DOI/Longfin/LFS_Lengths/ForGit"
-setwd(wd)
-
 # load source code for creating multi-panel contour plots
 source('./filled.contour3.r')
 

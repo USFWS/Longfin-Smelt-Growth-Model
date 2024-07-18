@@ -827,7 +827,7 @@ for(i in 7:length(env_dat[1,]))
 env_dat_temp<-env_dat
 env_dat<-NULL
 
-abundance<-read.csv('./Data/countPVAdataforCraig.csv',head=TRUE)
+abundance<-read.csv('./Data/countPVAdata.csv',head=TRUE)
 lnN<-rbind(log(abundance),NA,NA)
 lnN[,1]<-c(abundance[,1],2019,2020)
 

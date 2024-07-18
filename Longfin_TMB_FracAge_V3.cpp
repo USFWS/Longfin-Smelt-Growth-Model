@@ -1,6 +1,5 @@
 #include <TMB.hpp>
 // This namespace is used for printing during iterations
-// Don't really understand what it is for
 namespace CppAD
 {
 void PrintFor(const char* before, const double& var){}
